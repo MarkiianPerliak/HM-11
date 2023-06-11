@@ -3,10 +3,10 @@
     height: 220px;
     margin-top: 15px;
     margin-left: 10px;
-    margin-right: 20px;
-    margin-bottom: 10px;
-    border: red;
-    border-radius: 2px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border: 2px;
+    border-color: red;
     border-style: dotted;
     background-color: green;
     padding-bottom: 30px;
